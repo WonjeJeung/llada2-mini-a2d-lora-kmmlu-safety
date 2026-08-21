@@ -1,0 +1,15 @@
+torch
+transformers==4.57.1
+accelerate
+safetensors
+hf_xet
+hf_transfer
+sentencepiece
+spacy
+datasketch
+protobuf
+datasets
+peft
+pandas
+pyarrow
+tqdm
